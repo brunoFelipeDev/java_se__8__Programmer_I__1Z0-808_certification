@@ -1,2 +1,3 @@
-# java_se__8__Programmer_I__1Z0-808_certification
-Java 8 Developer Certification Study Repository
+# Certificação Java 8 - IZ0-808
+
+Repositório para armazenar meus estudos, experiências e resolução de simulados referente aos requisitos cobrados para a prova de certificação Java 8 I IZ0-808
